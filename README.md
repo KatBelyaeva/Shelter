@@ -12,6 +12,8 @@
 
 Ссылка на сайт: 
 
+https://katbelyaeva.github.io/Shelter/pages/main/index.html
+
 ## Контакты
 
 Мой email - [kat.belyaeva.it@gmail.com](kat.belyaeva.it@gmail.com)
